@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/',
   lang: 'zh-CN',
   title: "ZQUMC 砚园工坊",
   titleTemplate: 'ZQUMC 砚园工坊',
