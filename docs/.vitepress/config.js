@@ -35,8 +35,8 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/thezqumc/Site/edit/main/docs/:path',
-      text: '在 GitHub 编辑此页'
+      pattern: 'https://github.com/thezqumc/site/edit/main/docs/:path',
+      text: '页面反馈'
     },
 
     outlineTitle: '快速导航',
