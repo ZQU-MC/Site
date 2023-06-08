@@ -17,5 +17,6 @@ ZQUMC 还致力于推广 Minecraft 游戏文化，以学校文化为核心，通
 
 ## 相关平台
 
+[知乎专栏](https://www.zhihu.com/column/c_1650282871678980096)
 
 

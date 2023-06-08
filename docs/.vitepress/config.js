@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '计划表', link: '/todo' },
+      { text: '博客', link: 'https://blog.zqumc.cn/' },
       { text: '关于', link: '/about' }
     ],
 /*    
