@@ -13,7 +13,13 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '博客', link: 'https://blog.zqumc.cn/' },
-      { text: '关于', link: '/about' }
+      {
+        text: '关于',
+        items: [
+          { text: '关于ZQUMC', link: '/about' },
+          { text: '关于运营组', link: '/team' },
+        ]
+      },
     ],
 /*    
     sidebar: [
@@ -41,7 +47,7 @@ export default defineConfig({
 
     outlineTitle: '快速导航',
 
-    cleanUrls: 'without-subfolders',
+    cleanUrls: true,
     lastUpdated: true,
     lastUpdatedText: '上次更新',
     docFooter: {
