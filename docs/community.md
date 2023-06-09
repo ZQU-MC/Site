@@ -6,9 +6,9 @@ title: 社群
 
 在遵守国家法律和公序良俗的前提下，你可以尽情讨论 Minecraft 游戏内容，也可以聊天畅想。
 
-## QQ 交流群
+## 砚园 Minecraft 交流群
 
-1. [**QQ 主群** 812164454](https://qm.qq.com/cgi-bin/qm/qr?k=OFZ2O3YA5jROV4yvB8cWaGDx-PxJmxj5&jump_from=webapi '点击加入 ZQUMC QQ主群')
+1. [**QQ 主群** 812164454](https://qm.qq.com/cgi-bin/qm/qr?k=OFZ2O3YA5jROV4yvB8cWaGDx-PxJmxj5&jump_from=webapi '肇庆学院 Minecraft 交流群')
 
 ## KOOK 频道
 正在建设中

@@ -13,11 +13,12 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '博客', link: 'https://blog.zqumc.cn/' },
+      { text: '关于', link: '/about' },
       {
-        text: '关于',
+        text: '更多',
         items: [
-          { text: '关于ZQUMC', link: '/about' },
-          { text: '关于运营组', link: '/team' },
+          { text: 'ZQUMC 运营组', link: '/team' },
+          { text: '支持我们', link: '/support' },
         ]
       },
     ],
@@ -33,7 +34,7 @@ export default defineConfig({
     ],
 */
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/thezqumc' }
+      { icon: 'github', link: 'https://github.com/zqu-mc' }
     ],
     
     search: {
