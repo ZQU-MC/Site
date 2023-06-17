@@ -1,5 +1,6 @@
 ---
 title: 社群
+titleTemplate: ZQUMC 砚园工坊
 ---
 # 社群列表 <Badge type="warning" text="初期建设中" />
 目前我们已经建成或正在建设的社群列表如下。

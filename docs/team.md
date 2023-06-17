@@ -1,5 +1,6 @@
 ---
 layout: page
+titleTemplate: ZQUMC 砚园工坊
 ---
 <script setup>
 import {

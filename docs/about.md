@@ -1,5 +1,6 @@
 ---
 title: 关于 ZQUMC
+titleTemplate: ZQUMC 砚园工坊
 ---
 # 关于 ZQUMC <Badge type="warning" text="逐渐完善中" />
 
