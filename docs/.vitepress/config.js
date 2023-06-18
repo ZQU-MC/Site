@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/',
   lang: 'zh-CN',
   title: "ZQUMC 砚园工坊",
-  titleTemplate: 'ZQUMC 砚园工坊',
+  titleTemplate: 'ZQUMC砚园工坊',
   description: "创造属于我们的世界",
   themeConfig: {
     logo: '/logo.svg',
