@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   lang: 'zh-CN',
-  title: "首页",
+  title: "ZQUMC 砚园工坊",
   titleTemplate: 'ZQUMC 砚园工坊',
   description: "创造属于我们的世界",
   themeConfig: {
